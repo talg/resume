@@ -1,0 +1,30 @@
+Tal Garfinkel is a research scientist and consultant with expertise in
+security, virtualization, and operating systems.  He is the author of nearly 30
+academic publications and eleven patents. His work has received the
+distinguished paper and best paper awards at the Usenix Security Symposium, and
+best paper award at Usenix Annual Technical Conference.
+
+Dr. Garfinkel's has done foundational work in trusted computing (Terra),
+software defined networking (SANE), and virtual machine introspection. In 2019
+his paper introducing virtual machine introspection received the Network and
+Distributed Security Symposium Test-of-Time award, for "[opening] the
+floodgates on a tremendous amount of research and derivative tools" The paper
+is the most highly cited NDSS paper (1751 citations) from the period 1995-2009.
+
+In addition to his academic experience, Dr. Garfinkel worked for many years at
+VMware, on research, product development, and security process improvements.
+Dr. Garfinkel has served as a reviewer and program committee member for many
+top academic conferences in systems and security, and was a co-founder of the
+Usenix Workshop on Offensive Technology (WOOT), which is now in its 14th year.
+He has also been a lecturer and invited speaker in both academic and industry
+forums on topics in virtualization and security including Usenix Security and
+Blackhat.
+
+Dr. Garfinkel received his B.A. ('02) with Honors in Computer Science from the
+University of California at Berkeley and his Ph.D.('10) from Stanford
+University. He currently resides in the Northern California foothills with his
+wife and two children. Apart from research, he enjoys rock climbing, hiking,
+and backpacking in the nearby mountains.
+
+
+

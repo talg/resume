@@ -1,0 +1,14 @@
+Tal Garfinkel is an independant researcher in computer security.
+He is the author of 29 academic publications and eleven patents. His work has
+received the distinguished paper and best paper awards at the Usenix Security
+Symposium, and best paper award at Usenix Annual Technical Conference.
+
+Garfinkel's work has been foundational to trusted computing (Terra), software
+defined networking (SANE), and introduced the technique of virtual machine
+introspection (VMI).  In 2019, his paper on VMI recieved the NDSS "test of
+time" award, for "[opening] the floodgates on a tremendous amount of research
+and derivative tools" The paper is the most highly cited NDSS paper between
+1995 and 2009.
+Garfinkel was the co-founder and program co-chair of the Usenix Workshop on
+Offensive Technology (WOOT).  He has also been a lecturer and invited speaker
+in both academic and industry forums including Usenix Security and Blackhat.

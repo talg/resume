@@ -1,0 +1,12 @@
+Dr. Tal Garfinkel is a research scientist and consultant with expertise
+in operating systems, virtualization, security and cloud computing.  He
+is the author of over 20 academic publications and a dozen patents.  In
+addition to his academic experience, Dr. Garfinkel worked for many years
+at VMware, on research, product development, and security process. Dr.
+Garfinkel has served as a reviewer and program committee member for many
+top academic conferences in systems and security, and has been an
+invited speaker in both academic and industry forums on topics in
+virtulization and security.  Dr. Garfinkel received his B.A. ('02) with
+Honors in Computer Science from the University of California at Berkeley
+and his Ph.D.('10) from Stanford University.
+

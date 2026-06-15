@@ -1,1 +1,3 @@
-# resume
+# README #
+
+My resume and bio.

@@ -1,0 +1,20 @@
+Tal Garfinkel is an expert in software systems and security, with over a decade
+of industry experience.  He has done foundational work on virtual machine based
+trusted computing (Terra~, Overshadow), software defined networking (SANE), and
+data lifetime that lead to the development of cold-boot attacks.  His work
+introduced virtual machine introspection, and received the 2019 Network and
+Distributed Systems Security (NDSS) ``test of time'' award, for ``[opening] the
+floodgates on a tremendous amount of research and derivative tools'' and was
+the most highly cited NDSS paper between 1995 and 2009.  Garfinkel was the
+co-founder and program co-chair of the Usenix Workshop on Offensive Technology
+(WOOT).  In the past he has recieved best paper awards at the Usenix Security
+and Usenix Annual Technical confernces.  He recently received distinguished
+paper and best awards at USENIX Security 2020 and ASPLOS 2023 and 2025, the NSA
+Best Scientific Cybersecurity Paper Competition (honorable mention) 2022, the
+IEEE Cybersecurity Award for Practice in 2022, and an Intel Hardware Security
+Academic Award (Honorable mention) in 2024 .
+
+Dr. Garfinkel received his B.A. ('02) with Honors in Computer Science from the
+University of California at Berkeley and his Ph.D.('10) from Stanford
+University.
+
